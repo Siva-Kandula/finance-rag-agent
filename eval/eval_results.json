@@ -1,0 +1,15 @@
+{
+    "timestamp": "2025-09-12T14:30:00Z",
+    "dataset": "finance_q3_earnings",
+    "num_samples": 150,
+    "metrics": {
+        "faithfulness": 0.912,
+        "answer_relevance": 0.875,
+        "context_recall": 0.843,
+        "context_precision": 0.881
+    },
+    "model_config": {
+        "llm": "gpt-4-turbo",
+        "retriever": "hybrid_bge_bm25"
+    }
+}

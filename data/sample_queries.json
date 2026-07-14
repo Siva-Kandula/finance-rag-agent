@@ -1,0 +1,27 @@
+[
+    {
+        "id": "q1",
+        "query": "What were the primary drivers for the revenue decline in the Q3 FY2023 report?",
+        "expected_topics": ["revenue", "Q3", "macroeconomic", "supply chain"]
+    },
+    {
+        "id": "q2",
+        "query": "How did the company's operating margin change compared to the same period last year?",
+        "expected_topics": ["operating margin", "YoY comparison", "basis points"]
+    },
+    {
+        "id": "q3",
+        "query": "Summarize the key risk factors mentioned regarding the upcoming regulatory changes in the EU.",
+        "expected_topics": ["risk factors", "EU regulations", "compliance costs"]
+    },
+    {
+        "id": "q4",
+        "query": "What is the management's guidance for CapEx in the next fiscal year?",
+        "expected_topics": ["capital expenditure", "guidance", "FY2024"]
+    },
+    {
+        "id": "q5",
+        "query": "Are there any pending litigations mentioned that could materially impact financial performance?",
+        "expected_topics": ["litigation", "legal proceedings", "material impact"]
+    }
+]
