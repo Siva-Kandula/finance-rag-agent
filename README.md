@@ -64,7 +64,7 @@ flowchart TD
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sivakandula/finance-rag-agent.git
+   git clone https://github.com/Siva-Kandula/finance-rag-agent.git
    cd finance-rag-agent
    ```
 
